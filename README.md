@@ -31,7 +31,7 @@ CoinCast is an interactive Streamlit-based web application that forecasts crypto
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CoinCast.git
+git clone https://github.com/MayurPD28/CoinCast.git
 cd CoinCast
 python -m venv venv
 venv\Scripts\activate  # On Windows
